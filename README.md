@@ -2,7 +2,7 @@
 
 ## 📖 Overview
 
-This project demonstrates the design and implementation of a relational database for an e-commerce system using SQL Server. The database models customers, products, suppliers, categories, orders, and order details while maintaining data integrity through primary and foreign key relationships.
+This project demonstrates the design and implementation of a relational database for an e-commerce system. The database models customers, products, suppliers, categories, orders, and order details while maintaining data integrity through primary and foreign key relationships.
 
 ---
 
